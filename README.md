@@ -3,8 +3,6 @@
 
 # Installation et préparation
 
-* git clone https://github.com/Malik42/Eventbrite
-
 * run  bundle install
 
 * run rails db:create
