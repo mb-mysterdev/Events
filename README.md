@@ -12,8 +12,3 @@
 * run rails db:migrate
 
 * run rails db:seed
-
-# Contributors
-- Amine : @A42
-- Lorenzo : @Lorenzo
-- Malik : @Malik
